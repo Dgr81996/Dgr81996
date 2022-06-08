@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Deepak Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.I am proeficient in react,node and Js. I have made many real life project using react and node and also am good in DSA.</h3>
+
+- 📫 How to reach me **dgr8.121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
